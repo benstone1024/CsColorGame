@@ -1,7 +1,7 @@
 body{
     background-color:#232323;
 }
-.square{
+.square {
     width:30%;
     background:purple;
     padding-bottom:30%;
@@ -9,13 +9,13 @@ body{
     margin:1.66%;
 }
 #container {
+    max-width:600px;
     margin:0 auto;
-    max-width: 600px;
+    
 }
-h1 {
+h1{
     color:white;
 }
-
 span {
-    color: White;
+    color:white;
 }
